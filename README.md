@@ -5,3 +5,5 @@ Buyers (retailers, wholesalers, food processors, exporters) for fresh produce.
 Waste utilization companies (for making compost, biofuel, bioplastics, etc.).
 <br>
 Cooperative sales — where small farmers can combine their produce to meet big orders.
+<br>
+Author: Ankur Gupta
